@@ -34,7 +34,7 @@ Designed by Nick Sutton<br>
 for rAtTrax Heads-UP display's<br>
 198MPH Challenge Applies for anyone that has what it takes.....<br>
 Long Live MD and rAtTrax<br>
-Making garbage go fater then you.... since 2006<br>
+Making garbage go faster then you.... since 2006<br>
 
 
 <img src="rattrax-chipsee1.png" alt="Base">
