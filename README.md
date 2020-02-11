@@ -23,18 +23,18 @@ rAtTrax Aluminum Housing for BBB-EXP7H
 <br>
 DC power supply 
 <br>
-Generic USB 2.0 - 4-port - HUB
+Generic USB 2.0 - 4-port - HUB<br><br>
 
- All work done in FreeCAD ver0.19
+ All work done in FreeCAD ver0.19<br>
 
-****for PERSONAL USE ONLY****
+****for PERSONAL USE ONLY****<br>
 
-All Rights reserved Nick Sutton & rAtTrax
-Designed by Nick Sutton
-for rAtTrax Heads-UP display's
-198MPH Challenge Applies for anyone that has what it takes.....
-Long Live MD and rAtTrax
-Making garbage go fater then you.... since 2006
+All Rights reserved Nick Sutton & rAtTrax<br>
+Designed by Nick Sutton<br>
+for rAtTrax Heads-UP display's<br>
+198MPH Challenge Applies for anyone that has what it takes.....<br>
+Long Live MD and rAtTrax<br>
+Making garbage go fater then you.... since 2006<br>
 
 
 <img src="rattrax-chipsee1.png" alt="Base">
