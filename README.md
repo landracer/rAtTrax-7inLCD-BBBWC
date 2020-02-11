@@ -25,5 +25,16 @@ DC power supply
 <br>
 Generic USB 2.0 - 4-port - HUB
 
+ All work done in FreeCAD ver0.19
+
+****for PERSONAL USE ONLY****
+
+All Rights reserved Nick Sutton & rAtTrax
+Designed by Nick Sutton
+for rAtTrax Heads-UP display's
+198MPH Challenge Applies for anyone that has what it takes.....
+Long Live MD and rAtTrax
+Making garbage go fater then you.... since 2006
+
 
 <img src="rattrax-chipsee1.png" alt="Base">
